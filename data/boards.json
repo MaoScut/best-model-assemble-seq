@@ -1,0 +1,52 @@
+[
+  {
+  "name": "a",
+  "parts_count": 35
+},
+  {
+  "name": "b",
+  "parts_count": 3
+},
+  {
+  "name": "c",
+  "parts_count": 22
+},
+  {
+  "name": "d",
+  "parts_count": 18
+},
+
+  {
+  "name": "e",
+  "parts_count": 13
+},
+  {
+  "name": "f",
+  "parts_count": 18
+},
+
+
+  {
+  "name": "g",
+  "parts_count": 33
+},
+
+  {
+  "name": "h",
+  "parts_count": 28
+},
+
+  {
+  "name": "i",
+  "parts_count": 31
+},
+
+  {
+  "name": "j",
+  "parts_count": 3
+},
+{
+  "name": "k",
+  "parts_count": 14
+}
+]
